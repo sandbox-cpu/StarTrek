@@ -2,3 +2,6 @@ node_modules/
 .DS_Store
 *.log
 .claude/settings.local.json
+
+# Third-party artwork supplied for personal use; not redistributed in this public repo
+assets/img/ship_player.jpg
