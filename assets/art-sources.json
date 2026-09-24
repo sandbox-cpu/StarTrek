@@ -122,7 +122,8 @@
    "key": "ship_player",
    "prompt": "An elegant exploration starship cruising above a blue and white planet: a large flat disc-shaped primary hull joined by a slim angled neck to a smaller cylindrical secondary hull, two long warp engine nacelles on swept-back pylons glowing blue, white-grey hull with fine panel lines and rows of lit windows, dramatic rim light. Original design. No registry numbers or insignia.",
    "url": null,
-   "note": "Flagged by the content filter twice (false positive). Needs a different design description."
+   "note": "Title image supplied by the user (made with Gemini): an Intrepid, a Galaxy and a Defiant in formation. 21:9.",
+   "source": "user"
   },
   {
    "key": "ship_klingon",

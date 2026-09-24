@@ -20,7 +20,7 @@ ok = fail = skip = 0
 for item in SRC['images']:
     dest = os.path.join(OUT, item['key'] + '.jpg')
     if not item.get('url'):
-        print('  -  %-20s not generated yet' % item['key']); skip += 1; continue
+        print('  -  %-20s %s' % (item['key'], 'supplied locally' if os.path.exists(dest) else 'not generated yet')); skip += 1; continue
     if os.path.exists(dest) and not force:
         skip += 1; continue
     try:
