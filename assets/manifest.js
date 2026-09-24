@@ -45,17 +45,18 @@
     portrait_klingon: 'assets/img/portrait_klingon.jpg',
     portrait_romulan: 'assets/img/portrait_romulan.jpg',
     portrait_cardassian: 'assets/img/portrait_cardassian.jpg',
-    portrait_ferengi: 'assets/img/portrait_ferengi.jpg'
+    portrait_ferengi: 'assets/img/portrait_ferengi.jpg',
+    portrait_orion: 'assets/img/portrait_orion.jpg',
+    portrait_alien1: 'assets/img/portrait_alien1.jpg',
+    portrait_alien2: 'assets/img/portrait_alien2.jpg',
+    portrait_borg: 'assets/img/portrait_borg.jpg',
+    // planet surfaces for away teams
+    surface_ruins: 'assets/img/surface_ruins.jpg',
+    surface_colony: 'assets/img/surface_colony.jpg',
+    surface_caves: 'assets/img/surface_caves.jpg'
   };
   // Keys that do not have their own picture yet.
   ST.ART_ALIAS = {
-    portrait_orion: 'ship_orion',
-    portrait_alien1: 'ship_unknown',
-    portrait_alien2: 'ship_unknown',
-    portrait_borg: 'ship_cube',
-    surface_ruins: 'megastructure',
-    surface_colony: 'planet_m',
-    surface_caves: 'planet_k',
     title: 'starbase'
   };
 })(typeof window !== 'undefined' ? window : globalThis);

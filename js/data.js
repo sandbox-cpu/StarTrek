@@ -65,14 +65,14 @@
     orion: {
       id: 'orion', name: 'Orion Syndicate', short: 'Orion Syndicate', adj: 'Orion', plural: 'Orion pirates',
       color: '#88c070', major: false, pirate: true, leaderTitles: ['Captain', 'Boss'], leaders: ['Vessa', 'Kaan', 'Ral Doran', 'Neela', 'Tharn', 'Soraya', 'Dezh', 'Mavrik'],
-      ship: 'ship_orion', portrait: 'ship_orion', values: { profit: 3, autonomy: 2, tradition: -1, honor: -1, security: 0, knowledge: 0 },
+      ship: 'ship_orion', portrait: 'portrait_orion', values: { profit: 3, autonomy: 2, tradition: -1, honor: -1, security: 0, knowledge: 0 },
       aggression: 0.8, trades: true, bribable: true, cloak: false, startRel: [-45, -30],
       hailFlavor: 'The pirate captain lounges in a battered command chair, weapons charged.'
     },
     borg: {
       id: 'borg', name: 'Borg Collective', short: 'Borg Collective', adj: 'Borg', plural: 'the Borg',
       color: '#66cc66', major: false, hidden: true, leaderTitles: ['Drone'], leaders: ['Three of Twelve', 'Nine of Sixteen', 'Two of Five'],
-      ship: 'ship_cube', portrait: 'ship_cube', values: { honor: 0, profit: 0, security: 0, knowledge: 0, autonomy: 0, tradition: 0 },
+      ship: 'ship_cube', portrait: 'portrait_borg', values: { honor: 0, profit: 0, security: 0, knowledge: 0, autonomy: 0, tradition: 0 },
       aggression: 1, trades: false, bribable: false, cloak: false, negotiable: false, startRel: [-100, -100],
       hailFlavor: 'WE ARE THE BORG. RESISTANCE IS FUTILE.'
     },

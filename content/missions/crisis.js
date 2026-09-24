@@ -52,7 +52,7 @@ ST.content.register({
     },
     wreck_team: { type: 'away_team', text: 'Boarding a Borg vessel. Pick your best.', size: [2, 3], recommend: ['engineering', 'science', 'tactics'], next: 'inside' },
     inside: {
-      type: 'scene', image: 'ship_cube',
+      type: 'scene', image: 'portrait_borg',
       text: 'Green light, cold air, the hum of a hundred minds. The interlink node pulses at the heart of the probe. Removing it will wake every drone aboard.',
       choices: [
         { label: 'Extract the node', check: { skill: 'engineering', difficulty: 'hard', team: 'away' }, success: 'got_node', failure: 'fight_out' },
@@ -70,7 +70,7 @@ ST.content.register({
     got_node_hurt: { type: 'advance', text: 'The team fights free with the node, but not everyone walks out unhurt. The cube\'s defences are now an open book. Set course for {front}.', effects: { items: { add: ['borg_node'] }, setFlags: ['borg_weak'], injure: { who: 'away', severity: 'injured' } } },
     no_node: { type: 'advance', text: 'The team barely escapes without the node. You will have to face the cube without it. Set course for {front}.', effects: { injure: { who: 'away', severity: 'critical' }, morale: -5 } },
     front: {
-      type: 'scene', image: 'ship_cube', speaker: 'The Borg Collective',
+      type: 'scene', image: 'portrait_borg', speaker: 'The Borg Collective',
       text: 'The cube fills the viewscreen, blotting out the stars. A voice like a thousand whispers:\n\n"WE ARE THE BORG. LOWER YOUR SHIELDS AND SURRENDER YOUR SHIP. YOUR BIOLOGICAL AND TECHNOLOGICAL DISTINCTIVENESS WILL BE ADDED TO OUR OWN. RESISTANCE IS FUTILE."',
       choices: [
         { label: 'Transmit a shutdown command through the interlink node', requires: { item: 'borg_node' }, check: { skill: 'science', difficulty: 'hard' }, success: 'shutdown', failure: 'battle' },

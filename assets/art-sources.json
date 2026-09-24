@@ -121,7 +121,8 @@
   {
    "key": "ship_player",
    "prompt": "An elegant exploration starship cruising above a blue and white planet: a large flat disc-shaped primary hull joined by a slim angled neck to a smaller cylindrical secondary hull, two long warp engine nacelles on swept-back pylons glowing blue, white-grey hull with fine panel lines and rows of lit windows, dramatic rim light. Original design. No registry numbers or insignia.",
-   "url": null
+   "url": null,
+   "note": "Flagged by the content filter twice (false positive). Needs a different design description."
   },
   {
    "key": "ship_klingon",
@@ -191,37 +192,37 @@
   {
    "key": "portrait_orion",
    "prompt": "Medium close-up of a green-skinned pirate captain hailing on a viewscreen: a woman with a scar across one cheek, dark braided hair, leather and metal-studded gear, gold jewellery, confident dangerous smirk, grimy ship interior lit with green and amber lights. Fictional character.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_f28741e9-5673-42d1-b0ad-193dce8a24ab.png"
   },
   {
    "key": "portrait_alien1",
    "prompt": "Medium close-up of an unfamiliar alien envoy on a viewscreen: softly luminous iridescent pale-blue skin, large dark almond eyes, delicate branching head crests, flowing pearl-white robes, serene curious expression, in an organic glowing chamber with curved walls. Fictional character.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_6f3e60c9-9ddb-4450-850e-982a13d588b8.png"
   },
   {
    "key": "portrait_alien2",
    "prompt": "Medium close-up of a reptilian alien leader on a viewscreen: textured green-bronze scaled hide, amber slit-pupil eyes, a ridge of small horns, heavy ceremonial robes with carved stone ornaments, wary expression, in a stone chamber lit by firelight. Fictional character.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_ec79b594-c29a-40b2-b71f-dd15b389ce10.png"
   },
   {
    "key": "portrait_borg",
    "prompt": "Medium close-up of a pale cybernetic drone on a viewscreen: grey corpse-like skin, black armour plating and tubes fused into the head and body, a red laser eyepiece over one eye, expressionless face, dark machine interior with eerie green light. Fictional character.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_0d6aeb31-6fb6-449b-98cb-8561402ac343.png"
   },
   {
    "key": "surface_ruins",
    "prompt": "A small away team of three explorers in dark uniforms with coloured shoulders, holding handheld scanners, exploring vast ancient alien ruins: towering carved stone arches covered with faintly glowing blue glyphs, under a violet alien sky with two moons. Wide shot, figures small in frame.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_e30c75af-7e00-4909-978a-785e545b1eb1.png"
   },
   {
    "key": "surface_colony",
    "prompt": "A small frontier colony on an alien world at dusk: clusters of white prefabricated domes and hydroponic greenhouses, communication antennae, a landing pad with a small shuttle, rust-coloured plains and strange tall plants, a large ringed planet in the sky. Wide shot.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053442_0c23f377-bb27-4500-8741-d537eba1319f.png"
   },
   {
    "key": "surface_caves",
    "prompt": "A vast underground cavern filled with huge glowing crystal formations in magenta, pink and violet, an away team of two explorers with wrist lights and handheld scanners standing small in the frame, mist and reflections on wet rock.",
-   "url": null
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_053443_9c23f05c-733f-4eac-b599-4464fa72646b.png"
   }
  ]
 }
