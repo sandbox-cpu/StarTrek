@@ -1,0 +1,227 @@
+{
+ "_about": "Higgsfield art for Frontier Command. Model gpt_image_2_5, quality medium, 1k, 16:9. Every prompt ends with the shared style line. Entries with a url were generated and can be downloaded with tools/fetch-art.py. Entries without one still need generating.",
+ "style": "Cinematic science-fiction television VFX still, photoreal, no text, no letters, no logos, no watermark.",
+ "model": {
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "resolution": "1k",
+  "aspect_ratio": "16:9"
+ },
+ "images": [
+  {
+   "key": "planet_m",
+   "prompt": "A lush Earth-like class M planet seen from high orbit: deep blue oceans, green and brown continents, swirling white cloud systems, thin glowing blue atmosphere rim, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_ae22a5f5-e5cb-4230-8491-66baa52349f2.png"
+  },
+  {
+   "key": "planet_h",
+   "prompt": "A desert planet seen from high orbit: ochre and rust sand seas, dry canyons and salt flats, thin dusty tan haze at the limb, harsh sunlight, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_43e066a8-1446-4331-a899-5162b379a7ae.png"
+  },
+  {
+   "key": "planet_p",
+   "prompt": "A frozen glaciated ice planet seen from high orbit: white and pale cyan ice sheets, long blue fracture lines, frozen seas, faint pale atmosphere, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_5310a9f6-f7a7-459d-9a50-b4f0dd2858f0.png"
+  },
+  {
+   "key": "planet_j",
+   "prompt": "A huge banded gas giant seen from orbit with thin tilted rings and two small moons: cream, amber and rust storm bands, a giant oval storm, the planet fills most of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_06e2d5a9-5c22-4315-acdd-d20cf0d635a6.png"
+  },
+  {
+   "key": "planet_y",
+   "prompt": "A hellish toxic planet seen from orbit: thick sickly yellow-green corrosive cloud layers, flashes of lightning inside the clouds, murky sulphurous haze at the limb, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_ba63a9ad-4108-4be3-9c29-5be378c011b6.png"
+  },
+  {
+   "key": "planet_n",
+   "prompt": "A volcanic lava planet seen from orbit: black basalt crust cracked by glowing orange lava rivers and erupting volcanoes, dark ash plumes, red glow at the limb, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_643df0e7-b44f-44d5-b0e7-7b100b992919.png"
+  },
+  {
+   "key": "planet_o",
+   "prompt": "A global ocean planet seen from orbit: deep sapphire water with scattered chains of tiny green islands, a spiral hurricane, bright specular sun glint, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_beff61d3-b4b0-478a-b49a-66b9c0177961.png"
+  },
+  {
+   "key": "planet_k",
+   "prompt": "A barren airless rocky planet seen from orbit: grey-brown heavily cratered surface, long shadows, rilles and mountain ranges, no atmosphere, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_2f1a50e0-5ea2-4e1d-a6d3-e0fc691fcbef.png"
+  },
+  {
+   "key": "planet_l",
+   "prompt": "A dense jungle planet seen from orbit: continents covered in dark emerald rainforest, winding rivers, humid white cloud banks, faint violet-tinted atmosphere glow, the planet fills the right two-thirds of the frame, deep black starfield.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_cbcc143a-5147-421c-a093-9f735fc502e1.png"
+  },
+  {
+   "key": "warp",
+   "prompt": "The forward view from a starship travelling at warp speed: countless stars stretched into long streaks of white and blue light rushing toward the viewer from a central vanishing point, faint blue tunnel glow, deep black space. No ship visible.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_e4e9f8d0-4759-4777-a4c6-ec47544aa79b.png"
+  },
+  {
+   "key": "nebula",
+   "prompt": "A vast colourful emission nebula in deep space: billowing clouds of violet, magenta and orange gas, dark dust lanes, clusters of bright young blue stars glowing inside.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_c5d90a21-c480-4032-a6fb-a3ad028b1f8d.png"
+  },
+  {
+   "key": "ion_storm",
+   "prompt": "A violent ion storm in deep space: churning walls of blue-violet plasma, crackling electrical filaments and lightning discharges arcing between clouds, ominous and dangerous.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042310_99a7131b-7b0a-4753-b49b-1864bc51f9ec.png"
+  },
+  {
+   "key": "rift",
+   "prompt": "A spatial anomaly: a jagged tear in the fabric of space-time, a glowing rift of white, magenta and electric blue light, the background starfield visibly warped and smeared around it, eerie and unnatural.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_eebf5824-ffcd-42d0-bb32-f84682fdf3cb.png"
+  },
+  {
+   "key": "wormhole",
+   "prompt": "A stable wormhole opening in deep space: a swirling funnel of blue-white and gold light spiralling into a bright centre, gravitational lensing bending the surrounding stars.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_360f69f3-3c87-4172-ba75-c89c7f7def88.png"
+  },
+  {
+   "key": "asteroids",
+   "prompt": "A dense asteroid field in space: dozens of tumbling irregular grey and brown rocks of many sizes, some glinting with metallic ore, lit from the side by a distant orange star, dust haze.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_be4ee339-f204-4bec-b26f-d1f62d8d22b4.png"
+  },
+  {
+   "key": "derelict",
+   "prompt": "An ancient derelict alien starship drifting dark and silent in space: a long ribbed hull of unfamiliar design, large breaches in the hull, a few flickering dim emergency lights, a cloud of small debris around it, lit faintly by a distant star.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_0b0edad1-4256-4e11-a2a4-4e6b7dd2e6c1.png"
+  },
+  {
+   "key": "starbase",
+   "prompt": "A huge orbital starbase space station above a blue planet: a large domed upper section on a long central spire with ring-shaped docking levels, clean white-grey hull plating, hundreds of lit windows, glowing docking bay doors, small shuttle lights nearby. Original design. No insignia.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_3a26aece-2307-4fed-9bcc-22828e4ae261.png"
+  },
+  {
+   "key": "trade_station",
+   "prompt": "A gaudy independent trading outpost space station: ramshackle clusters of mismatched modules, bright orange and gold advertising lights, cargo containers stacked on the hull, several small freighters docked, set against a dusty nebula. No readable text.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_af5ea247-f2d7-4f3c-8878-474b7d591b41.png"
+  },
+  {
+   "key": "pulsar",
+   "prompt": "A rapidly spinning pulsar neutron star in space: a tiny brilliant blue-white core emitting two narrow opposing beams of intense radiation, glowing magnetic field loops around it, surrounding faint nebula.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_379c382a-7407-4255-b35d-996a60abc057.png"
+  },
+  {
+   "key": "megastructure",
+   "prompt": "A colossal ancient alien megastructure encircling a star: a partially built shell of enormous dark hexagonal panels, gaps glowing with trapped starlight, clearly millions of years old, a tiny starship silhouette for scale.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_dc387dfd-de7b-4a9e-9e3c-91f70ffefe7c.png"
+  },
+  {
+   "key": "entity",
+   "prompt": "A vast living crystalline energy entity drifting through space: a huge lattice of glowing geometric crystal spikes, radiating prismatic rainbow light and soft white glow, beautiful and dangerous.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_93554520-0713-42f9-867a-c308c72cf81b.png"
+  },
+  {
+   "key": "black_hole",
+   "prompt": "A black hole in deep space: a pitch-black event horizon surrounded by a blazing orange and white accretion disk, strong gravitational lensing bending the disk and stars into arcs.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_d1eb7456-6f9b-42f3-bf22-3e91782c6738.png"
+  },
+  {
+   "key": "ship_player",
+   "prompt": "An elegant exploration starship cruising above a blue and white planet: a large flat disc-shaped primary hull joined by a slim angled neck to a smaller cylindrical secondary hull, two long warp engine nacelles on swept-back pylons glowing blue, white-grey hull with fine panel lines and rows of lit windows, dramatic rim light. Original design. No registry numbers or insignia.",
+   "url": null
+  },
+  {
+   "key": "ship_klingon",
+   "prompt": "A menacing dark green alien warship approaching head-on: a long thin neck ending in a bulbous forward command section, wide down-swept wings tipped with disruptor cannons, hull plating textured like feathers, red glowing forward torpedo launcher, predatory silhouette, lit by a red star. No insignia.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042333_18085d1e-5079-4ac9-a56f-a3d1c3334188.png"
+  },
+  {
+   "key": "ship_romulan",
+   "prompt": "An enormous green alien warbird starship decloaking in space: two great sweeping curved hull wings forming an open double-hulled shape with a hollow centre, bird-of-prey feather patterns painted on the hull, glowing green lights, a shimmering ripple of cloaking distortion around its edges. No insignia.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_dd20a68e-9852-4c6b-b269-96e31554af82.png"
+  },
+  {
+   "key": "ship_cardassian",
+   "prompt": "An angular tan and ochre alien military warship: a flat arrowhead-shaped forward hull with a long spine and a raised trident-like stern, glowing amber-orange lights and weapon emitters, harsh industrial militaristic design, lit by a yellow star. No insignia.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_f9f7d1b1-f535-4264-874d-7a833088d8c7.png"
+  },
+  {
+   "key": "ship_ferengi",
+   "prompt": "An orange-brown alien trading starship shaped like a horseshoe crab: a broad curved rear hull and a bulbous forward bridge section, green glowing ports, polished bronze details, slightly ostentatious, in orbit of a gas giant. No insignia.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_6ade8094-fdb5-4094-b8bb-6f0f8e231b24.png"
+  },
+  {
+   "key": "ship_orion",
+   "prompt": "A scrappy pirate raider starship cobbled together from mismatched hull plates of different colours, crude welds, extra weapon turrets bolted on, green running lights, scorch marks and battle damage, lurking at the edge of an asteroid field.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_668e5c7d-61bd-4817-be95-b7a4b5f0b65e.png"
+  },
+  {
+   "key": "ship_unknown",
+   "prompt": "A strange organic alien starship like a deep-sea creature: a smooth pearlescent biological shell with trailing fins, bioluminescent blue and violet veins pulsing along its body, no visible engines, drifting past a nebula.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_a9e3e04e-2a0b-4277-afd8-3e71a3137270.png"
+  },
+  {
+   "key": "ship_cube",
+   "prompt": "A colossal perfect cube-shaped alien vessel in space, its surfaces a dense chaotic maze of dark grey machinery, pipes and conduits, lit from within by eerie sickly green light, overwhelming scale, a tiny starship silhouette in the foreground for scale.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_19fc1f06-aa93-440f-a330-fa02097d123f.png"
+  },
+  {
+   "key": "doomsday",
+   "prompt": "A gigantic ancient doomsday machine drifting through space: a miles-long cone-shaped hull of rough dark neutronium-like rock and metal, its wide open maw glowing with a furnace of orange-white energy, debris of destroyed planets around it.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_6c360414-844d-47c8-9ecd-3c00b5428bb4.png"
+  },
+  {
+   "key": "portrait_admiral",
+   "prompt": "Medium close-up of a stern but kind senior starfleet admiral, a woman in her sixties with short silver hair, wearing a dark grey and red uniform jacket with small gold rank pins on the collar, seated in a starbase office with a large window of stars behind her, speaking directly to camera as if on a viewscreen call. Fictional person.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_335a6034-be45-4c23-85f7-cd37036654b7.png"
+  },
+  {
+   "key": "portrait_klingon",
+   "prompt": "Medium close-up of a fierce alien warrior commander hailing on a viewscreen: dark skin, heavily ridged bony forehead, long wild black hair and beard, bronze and black leather armour with a metallic baldric sash, glaring defiantly at the camera from the dim red-lit bridge of his warship. Fictional character.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_2144e20e-dd91-4f52-9322-06223335aa73.png"
+  },
+  {
+   "key": "portrait_romulan",
+   "prompt": "Medium close-up of a cold, calculating alien commander hailing on a viewscreen: pale skin, upswept pointed ears, severe straight black fringe haircut, a subtle V-shaped ridge above the brow, grey uniform with broad padded shoulders, faint smile, on a dim green-lit starship bridge. Fictional character.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_6dd33a8c-10e5-4d06-9037-af6d001edcd3.png"
+  },
+  {
+   "key": "portrait_cardassian",
+   "prompt": "Medium close-up of a grey-skinned alien military officer hailing on a viewscreen: prominent ridged cords running down the sides of his neck, a spoon-shaped ridge in the centre of the forehead, slicked-back black hair, dark segmented armour uniform, arrogant expression, on a dim amber-lit bridge. Fictional character.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042346_2e4db946-e895-4651-9d9a-f4b125467459.png"
+  },
+  {
+   "key": "portrait_ferengi",
+   "prompt": "Medium close-up of a short alien merchant captain hailing on a viewscreen: enormous lobed ears, bald ridged orange-tinged head, small sharp crooked teeth, a sly greedy grin, gaudy patterned jacket with gold trim, warm orange-lit ship interior. Fictional character.",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Humv1yp6qWyeEGE9MoWiy2ZVES/hf_20260924_042347_6ea6d121-4800-44a7-a374-fd37952b3c52.png"
+  },
+  {
+   "key": "portrait_orion",
+   "prompt": "Medium close-up of a green-skinned pirate captain hailing on a viewscreen: a woman with a scar across one cheek, dark braided hair, leather and metal-studded gear, gold jewellery, confident dangerous smirk, grimy ship interior lit with green and amber lights. Fictional character.",
+   "url": null
+  },
+  {
+   "key": "portrait_alien1",
+   "prompt": "Medium close-up of an unfamiliar alien envoy on a viewscreen: softly luminous iridescent pale-blue skin, large dark almond eyes, delicate branching head crests, flowing pearl-white robes, serene curious expression, in an organic glowing chamber with curved walls. Fictional character.",
+   "url": null
+  },
+  {
+   "key": "portrait_alien2",
+   "prompt": "Medium close-up of a reptilian alien leader on a viewscreen: textured green-bronze scaled hide, amber slit-pupil eyes, a ridge of small horns, heavy ceremonial robes with carved stone ornaments, wary expression, in a stone chamber lit by firelight. Fictional character.",
+   "url": null
+  },
+  {
+   "key": "portrait_borg",
+   "prompt": "Medium close-up of a pale cybernetic drone on a viewscreen: grey corpse-like skin, black armour plating and tubes fused into the head and body, a red laser eyepiece over one eye, expressionless face, dark machine interior with eerie green light. Fictional character.",
+   "url": null
+  },
+  {
+   "key": "surface_ruins",
+   "prompt": "A small away team of three explorers in dark uniforms with coloured shoulders, holding handheld scanners, exploring vast ancient alien ruins: towering carved stone arches covered with faintly glowing blue glyphs, under a violet alien sky with two moons. Wide shot, figures small in frame.",
+   "url": null
+  },
+  {
+   "key": "surface_colony",
+   "prompt": "A small frontier colony on an alien world at dusk: clusters of white prefabricated domes and hydroponic greenhouses, communication antennae, a landing pad with a small shuttle, rust-coloured plains and strange tall plants, a large ringed planet in the sky. Wide shot.",
+   "url": null
+  },
+  {
+   "key": "surface_caves",
+   "prompt": "A vast underground cavern filled with huge glowing crystal formations in magenta, pink and violet, an away team of two explorers with wrist lights and handheld scanners standing small in the frame, mist and reflections on wet rock.",
+   "url": null
+  }
+ ]
+}
