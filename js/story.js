@@ -384,7 +384,7 @@
       if (run && run.poi) return run.poi.type === 'anomaly' ? ((D.ANOMALY_KINDS.find(k => k.id === run.poi.kind) || {}).art || 'rift') : D.pois[run.poi.type].art;
       return G.systemArt(G.here());
     }
-    if (img === '@ship') return 'ship_player';
+    if (img === '@ship') return 'ship_' + ST.S.ship.cls;
     const m = /^\{([a-zA-Z_][a-zA-Z0-9_]*)(?:\.(portrait|ship))?\}$/.exec(img);
     if (m) {
       const v = run && run.slots && run.slots[m[1]];

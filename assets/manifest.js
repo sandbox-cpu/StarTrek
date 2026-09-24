@@ -57,6 +57,10 @@
   };
   // Keys that do not have their own picture yet.
   ST.ART_ALIAS = {
-    title: 'starbase'
+    title: 'starbase',
+    // the player's ship by class; point these at their own files once the pictures exist
+    ship_intrepid: 'ship_player',
+    ship_galaxy: 'ship_player',
+    ship_defiant: 'ship_player'
   };
 })(typeof window !== 'undefined' ? window : globalThis);

@@ -146,6 +146,9 @@
                 "surface_colony",
                 "surface_caves",
                 "title",
+                "ship_intrepid",
+                "ship_galaxy",
+                "ship_defiant",
                 "@location",
                 "@ship"
               ]
@@ -660,6 +663,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -767,6 +773,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -857,6 +866,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -948,6 +960,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -1044,6 +1059,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -1151,6 +1169,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -1328,6 +1349,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]
@@ -1460,6 +1484,9 @@
                     "surface_colony",
                     "surface_caves",
                     "title",
+                    "ship_intrepid",
+                    "ship_galaxy",
+                    "ship_defiant",
                     "@location",
                     "@ship"
                   ]

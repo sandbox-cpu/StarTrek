@@ -41,6 +41,7 @@
         '<p class="muted" style="font-size:15px">One spare part restores 25% to a system or 8 hull. Full repairs are free at a Federation starbase.</p>' +
         '</div><div class="stack">' +
         '<div class="hdr" style="--c:var(--orange)"><span class="cap"></span><span class="t">Ship specifications</span><span class="fill"></span><span class="end"></span></div>' +
+        ST.art.html('ship_' + S.ship.cls, { label: 'U.S.S. ' + S.ship.name, label2: cls.name }) +
         '<dl class="kv"><dt>Vessel</dt><dd>U.S.S. ' + U.esc(S.ship.name) + ' · ' + S.ship.registry + '</dd><dt>Class</dt><dd>' + cls.name + ' ' + cls.role.toLowerCase() + '</dd>' +
         '<dt>Reactor</dt><dd>' + st.reactor + ' power units</dd><dt>Warp core</dt><dd>Matter/antimatter reaction stable · ' + S.res.dilithium + ' / ' + st.dilCap + ' dilithium</dd>' +
         '<dt>Fuel use</dt><dd>' + Math.round(st.fuel * 100) + '% of standard</dd><dt>Speed</dt><dd>' + Math.round(st.warp * 100) + '% of standard</dd>' +

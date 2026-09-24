@@ -315,9 +315,9 @@ The validator rejects unknown placeholders, so typos are caught.
 
 `image` accepts:
 
-- An art key: `planet_m` `planet_l` `planet_o` `planet_h` `planet_p` `planet_k` `planet_n` `planet_y` `planet_j` `warp` `nebula` `ion_storm` `rift` `wormhole` `asteroids` `derelict` `starbase` `trade_station` `pulsar` `megastructure` `entity` `black_hole` `ship_player` `ship_klingon` `ship_romulan` `ship_cardassian` `ship_ferengi` `ship_orion` `ship_unknown` `ship_cube` `doomsday` `portrait_admiral` `portrait_klingon` `portrait_romulan` `portrait_cardassian` `portrait_ferengi` `portrait_orion` `portrait_alien1` `portrait_alien2` `portrait_borg` `surface_ruins` `surface_colony` `surface_caves`
+- An art key: `planet_m` `planet_l` `planet_o` `planet_h` `planet_p` `planet_k` `planet_n` `planet_y` `planet_j` `warp` `nebula` `ion_storm` `rift` `wormhole` `asteroids` `derelict` `starbase` `trade_station` `pulsar` `megastructure` `entity` `black_hole` `ship_player` `ship_intrepid` `ship_galaxy` `ship_defiant` `ship_klingon` `ship_romulan` `ship_cardassian` `ship_ferengi` `ship_orion` `ship_unknown` `ship_cube` `doomsday` `portrait_admiral` `portrait_klingon` `portrait_romulan` `portrait_cardassian` `portrait_ferengi` `portrait_orion` `portrait_alien1` `portrait_alien2` `portrait_borg` `surface_ruins` `surface_colony` `surface_caves`
 - `'@location'`: the current system or planet. This is the default for events.
-- `'@ship'`: the player's ship.
+- `'@ship'`: the player's own ship, matching the ship class they chose.
 - `'{slot}'`: a system or planet slot's picture, or a faction's portrait.
 - `'{slot.portrait}'` / `'{slot.ship}'`: a faction or species' person or ship.
 
