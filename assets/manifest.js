@@ -33,6 +33,8 @@
     // ships
     ship_player: 'assets/img/ship_player.jpg',
     ship_intrepid: 'assets/img/ship_intrepid.jpg',
+    ship_galaxy: 'assets/img/ship_galaxy.jpg',
+    ship_defiant: 'assets/img/ship_defiant.jpg',
     ship_klingon: 'assets/img/ship_klingon.jpg',
     ship_romulan: 'assets/img/ship_romulan.jpg',
     ship_cardassian: 'assets/img/ship_cardassian.jpg',
@@ -58,9 +60,6 @@
   };
   // Keys that do not have their own picture yet.
   ST.ART_ALIAS = {
-    title: 'starbase',
-    // the player's ship by class; point these at their own files once the pictures exist
-    ship_galaxy: 'ship_player',
-    ship_defiant: 'ship_player'
+    title: 'starbase'
   };
 })(typeof window !== 'undefined' ? window : globalThis);
