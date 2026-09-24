@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node tools/validate-content.mjs)",
+      "mcp__Higgsfield__jobs_wait"
+    ]
+  }
+}
