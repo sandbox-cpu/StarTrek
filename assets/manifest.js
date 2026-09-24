@@ -32,6 +32,7 @@
     black_hole: 'assets/img/black_hole.jpg',
     // ships
     ship_player: 'assets/img/ship_player.jpg',
+    ship_intrepid: 'assets/img/ship_intrepid.jpg',
     ship_klingon: 'assets/img/ship_klingon.jpg',
     ship_romulan: 'assets/img/ship_romulan.jpg',
     ship_cardassian: 'assets/img/ship_cardassian.jpg',
@@ -59,7 +60,6 @@
   ST.ART_ALIAS = {
     title: 'starbase',
     // the player's ship by class; point these at their own files once the pictures exist
-    ship_intrepid: 'ship_player',
     ship_galaxy: 'ship_player',
     ship_defiant: 'ship_player'
   };
